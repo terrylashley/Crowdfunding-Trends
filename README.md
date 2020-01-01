@@ -23,3 +23,6 @@ C. The majority of the projects set a goal between 1000 & 4999 with a  66% succe
 
 There is missing information that would be critical in making business investment decisions such as market data. Location, demographics and market conditions at the time of launch are critical to the success and failure of the kickstart. This data set also does not represent the competition of each kickstart. The degree of competition within the given market has a great impact on the outcome. 
 
+
+
+
