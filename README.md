@@ -7,6 +7,7 @@ Over two billion dollars have been raised using the massively successful crowdfu
 Since getting funded on Kickstarter requires meeting or exceeding the project's initial goal, many organizations spend months looking through past projects in an attempt to discover some trick to finding success.
 
 #Objectives
+
 This is an Excel Analysis of four thousand past Kickstarter projects to uncover hidden trends by examining the funding process and success rate.
 
 #Findings 
@@ -16,6 +17,7 @@ A. The lower the goal the higher the probability of success, and the lower the p
 B. Three strong Kickstarter categories are Film & video, Music, and Theater respectively 300, 540, and 839. These categories demonstrate an area for future investments for investors.
 
 C. The majority of the projects set a goal between 1000 & 4999 with a  66% success rate and a 4.25% cancelation rate
+
 
 #Limitations
 
