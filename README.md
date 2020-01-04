@@ -11,7 +11,7 @@ Since getting funded on Kickstarter requires meeting or exceeding the project's 
 
 This is an Excel Analysis of four thousand past Kickstarter projects to uncover hidden trends by examining the funding process and success rate.
 
-### Findings 
+### Findings             
 
 A. The lower the goal the higher the probability of success, and the lower the probability of cancelation. This seems evident in the “Outcomes Based on Goal” chart. Kickstarter campaigns with a initial goal under 1000 have been successful 71% of the time. Whereas, Kickstarter’s who’s initial goal is greater than 50,000 have a 16.37% chance of success. 
 
